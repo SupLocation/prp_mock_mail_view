@@ -1,0 +1,2 @@
+# prp_mock_mail_view
+メール受信の技術検証用Mockサービス
